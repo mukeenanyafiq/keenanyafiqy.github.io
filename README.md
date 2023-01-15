@@ -1,2 +1,2 @@
-# keenanyafiqy.github.io
-A web for keenanyafiqy.github.io
+# Available pages
+[CustomRecipeX](https://keenanyafiqy.github.io/CustomRecipeX)
