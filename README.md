@@ -1,2 +1,2 @@
 # Available pages
-[CustomRecipeX](https://keenanyafiqy.github.io/CustomRecipeX)
+[CustomRecipeX](https://mukeenanyafiq.github.io/CustomRecipeX)
